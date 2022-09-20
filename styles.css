@@ -1,0 +1,28 @@
+.nav {
+    border-radius: 50%;
+}
+
+#home-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#const-img {
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    width: 60%;
+}
+
+.list {
+    border-style: solid;
+    border-color: black;
+}
